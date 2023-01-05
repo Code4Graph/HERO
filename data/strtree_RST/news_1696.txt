@@ -1,0 +1,1 @@
+( NN-Topic-Comment ( EDU 1 )( NN-Joint ( EDU 2 )( NN-Joint ( EDU 3 )( NS-Elaboration ( EDU 4 )( EDU 5 ) ) ) ) )

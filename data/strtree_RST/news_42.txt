@@ -1,0 +1,1 @@
+( NN-Textual-Organization ( EDU 1 )( NN-Joint ( NS-Elaboration  ( EDU 2 )( EDU 3 ) )( NS-Elaboration ( EDU 4 )( NS-Elaboration ( EDU 5 )( NS-Elaboration ( EDU 6 )( NS-Elaboration ( NS-Elaboration ( NS-Elaboration ( EDU 7 )( EDU 8 ) )( EDU 9 ) )( NS-Elaboration ( EDU 10 )( NS-Elaboration ( EDU 11 )( EDU 12 ) ) ) ) ) ) ) ) )

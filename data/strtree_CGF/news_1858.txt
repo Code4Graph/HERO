@@ -1,0 +1,8 @@
+1: (ROOT (NP (VP (VB WATCH)) (: :)))
+2: (ROOT (S (NP (NNP Trump)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD requested) (NP (PRP it)) (PP (IN from) (NP (DT the) (NML (NNP White) (NNP House)) (NN physician))))))) (. .)))
+3: (ROOT (S (`` `) (S (NP (PRP I)) (VP (VBD started) (S (VP (VBG taking) (NP (PRP it)))) (, ,) (SBAR (IN because) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ good)))))))))) (, ,) ('' ') (NP (NNP Trump)) (VP (VBD said)) (. .)))
+4: (ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN heard) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (JJ good) (NNS stories)))))) (. .) ('' ')))
+5: (ROOT (S (S (NP (DT The) (JJ liberal) (NML (JJ ant) (HYPH -) (NNP Trump)) (NML (NNP Fox) (CD 11)) (NN host)) (VP (VBD tried) (S (VP (TO to) (VP (VB get) (S (NP (NNP D.) (NNP Drew)) (VP (TO to) (VP (VB attack) (NP (NNP President) (NNP Trump)) (PP (IN for) (S (VP (VBG taking) (NP (NN hydroxychloroquine))))))))))))) (, ,) (CC but) (S (NP (NNP D.) (NNP Drew)) (VP (VBD did) (RB not) (VP (VB take) (NP (DT the) (NN bait))))) (. .)))
+6: (ROOT (NP (NP (NN TRENDING)) (: :) (`` `) (NP (NP (NN Back)) (PP (IN of) (NP (DT the) (NNP Lin))))))
+7: (ROOT (S (NP (NNP Karma)) (VP (VBZ Hits) (SBAR (IN After) (S (NP (NP (NNP Gretchen) (NNP Whitmer) (POS 's)) (NNP Husband)) (VP (VBZ Tries) (S (VP (TO to) (VP (VB Cut) (PP (IN in) (NP (NN Line))) (PP (IN Before) (NP (NNP Michigan) (NNPS Boaters))) (SBAR (IN After) (S (NP (PRP$ His) (NNP Wife)) (VP (VBD Banned) (NP (NNP Motor) (NNP Boating)) (PP (IN for) (NP (NNP Week)))))))))))))))
+8: (ROOT (S (VP (NP (VB WATCH) (NP (NNP D.) (NNP Drew) (POS 's))) (VP (VB blow) (NP (DT the) (NN interviewer)) (ADVP (RB away)) (ADVP (RB here)))) (: :)))

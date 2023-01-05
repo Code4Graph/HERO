@@ -1,0 +1,5 @@
+1: (ROOT (NP (JJ Confusing) (NN Risk) (: :)))
+2: (ROOT (S (S (CC But) (NP (DT this)) (VP (VBZ is) (`` ') (RB t) (NP (NP (DT the) (JJ first) (JJ deadly) (NN virus)) (SBAR (S (NP (DT the) (NN world)) (VP (VBZ has) (VP (VBN seen)))))))) (, ,) (RB so) (WHNP (WP what)) (SQ (VP (VBD happened))) (. ?)))
+3: (ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD did) (NP (PRP we)) (VP (VB react) (NP (NP (DT the) (NN way)) (SBAR (S (NP (PRP we)) (VP (VBD did))))))) (. ?)))
+4: (ROOT (S (NP (CD One) (NN answer)) (VP (VBZ is) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ is) (NP (DT the) (JJ first) (NML (JJ social) (NNS media)) (NN pandemic)))))) (. .)))
+5: (ROOT (S (NP (NNS News) (CC and) (NNS narratives)) (VP (VBP travel) (PP (IN in) (NP (JJ rea) (HYPH -) (NN time))) (PP (ADVP (RB right)) (IN into) (NP (PRP$ our) (NNS hands)))) (. .)))

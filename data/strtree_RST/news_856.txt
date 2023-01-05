@@ -1,0 +1,1 @@
+( SN-Elaboration ( EDU 1 )( NS-Elaboration ( EDU 2 )( NN-Joint ( EDU 3 )( NN-Joint ( NS-Elaboration ( EDU 4 )( EDU 5 ) )( EDU 6 ) ) ) ) )

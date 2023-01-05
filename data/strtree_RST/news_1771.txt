@@ -1,0 +1,1 @@
+( NN-Contrast ( EDU 1 )( NN-Topic-Comment ( EDU 2 )( NN-Joint ( EDU 3 )( NS-Elaboration ( EDU 4 )( NS-Elaboration ( EDU 5 )( NS-Elaboration ( EDU 6 )( NS-Elaboration ( EDU 7 )( NN-Joint ( EDU 8 )( NS-Elaboration ( EDU 9 )( EDU 10 ) ) ) ) ) ) ) ) ) )

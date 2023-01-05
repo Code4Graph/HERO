@@ -1,0 +1,1 @@
+( NS-Elaboration ( EDU 1 )( NS-Elaboration ( EDU 2 )( NS-Elaboration ( NS-Evaluation ( NS-Elaboration ( EDU 3 )( EDU 4 ) )( EDU 5 ) )( EDU 6 ) ) ) )

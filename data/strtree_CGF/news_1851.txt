@@ -1,0 +1,4 @@
+1: (ROOT (S (`` `) (NP (NP (NNP Plague)) (PP (IN of) (NP (NNP Corruption)))) ('' ') (CC &) (VBG climbing) (NN Covid) (NNP numbersDr) (NNP Judy) (NNP Mikovits) (CC and) (NML (NNP Kent) (NNP Heckenlively)) (VP (VBP discuss) (NP (NP (PRP$ their) (JJ new) (NN book)) (, ,) ('' `) (NP (NP (NNP Plague)) (PP (IN of) (NP (NNP Corruption)))))) (. .) ('' ')))
+2: (ROOT (S (NP (HYPH Covi-19) (NNS numbers)) (VP (VBP continue) (S (VP (TO to) (VP (VB skyrocket)))) (SBAR (IN as) (S (NP (NNS scientists)) (VP (VBP race) (PP (IN for) (NP (DT a) (NN vaccine))))))) (. .)))
+3: (ROOT (S (CC And) (NP (NNP SpaceX)) (VP (VBZ is) (ADJP (JJ about) (S (VP (TO to) (VP (VB make) (NP (NN history))))))) (. .)))
+4: (ROOT (PRN (S (VP (`` `) (VP (VB Like) ('' ') (NP (PRP us)) (PP (IN on) (NP (NNP Facebook)))) (: :) (NP (NN htt:/f.m) (SYM /) (NP (NNP WatchingTheHawks)))))))

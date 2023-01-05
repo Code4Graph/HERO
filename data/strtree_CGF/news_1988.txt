@@ -1,0 +1,2 @@
+1: (ROOT (S (NP (NNP Coronavirus) (NNP War) (NNP Room) (NNP Ep19)) (IN by) (NNP D.) (NNP Paul) (VB CottrellSwitch) (PP (IN to) (NP (NP (DT the) (JJ dark) (NN mode)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (ADJP (JJR kinder)) (PP (IN on) (NP (PRP$ your) (NNS eyes)))) (PP (IN at) (NP (NN night) (NN time)))))))) (. .)))
+2: (ROOT (S (VP (VB Switch) (PP (IN to) (NP (NP (DT the) (JJ light) (NN mode)) (SBAR (WHNP (WDT that)) (S (VP (VBZ 's) (ADJP (ADJP (JJR kinder)) (PP (IN on) (NP (PRP$ your) (NNS eyes)))) (PP (IN at) (NP (NN day) (NN time))))))))) (. .)))

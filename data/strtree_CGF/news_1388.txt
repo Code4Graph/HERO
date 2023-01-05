@@ -1,0 +1,8 @@
+1: (ROOT (S (NP (NNP Disney)) (, ,) (NP (NNP Netflix)) (VP (VBP Demand) (NP (NP (NNP Rest)) (PP (IN of) (NP (NNP America)))) (VP (VB Bail) (PRT (RP Out)) (NP (NNP CaliforniaGreat)))) (. .)))
+2: (ROOT (S (ADVP (RB Now)) (NP (PRP it)) (VP (VBZ 's) (NP (NP (NP (DT the) (NN turn)) (PP (IN of) (NP (DT the) (NNPS FAANGs)))) (S (VP (TO to) (VP (VB demand) (SBAR (IN that) (S (NP (DT the) (NNS serfs)) (VP (VB pay) (SBAR (IN for) (S (NP (DT the) (JJ corrupt) (JJ Californistan) (NN regime)) (VP (TO to) (VP (VB stay) (ADJP (JJ closed)) (ADVP (RB forever)))))))))))))) (. .)))
+3: (ROOT (S (NP (NP (JJ Top) (NNS execs)) (PP (IN from) (NP (NP (NNP Netflix)) (, ,) (NNP Disney) (, ,) (NNP Salesforce) (CC and) (JJR more)))) (VP (VBP call) (PP (PP (IN on) (NP (NNP Congress))) (TO to) (NP (QP ($ provide$) (CD 1) (CD trillion))) (PP (IN in) (NP (NN coronavirus) (NN relief)))) (PP (IN to) (NP (JJ local)))) (: governments-)))
+4: (ROOT (S (NP (NP (NNP Mark) (NNP Zuckerberg) (POS 's)) (NN wife)) (VP (VBD signed) (PRT (RP on)) (PP (IN to) (NP (DT this)))) (. .)))
+5: (ROOT (S (NP (NNP Facebook)) (VP (VBZ is) (PP (IN in) (NP (NML (QP ($ the$) (CD 600) (CD billion))) (NN range)))) (. .)))
+6: (ROOT (S (NP (PRP It)) (VP (VBZ sounds) (SBAR (IN like) (S (PP (IN between) (NP (NNP Netflix) (, ,) (NNP Disney) (, ,) (CC and) (NNP Facebook))) (, ,) (NP (PRP they)) (VP (VBP 've) (VP (VBN got) (S (NP (DT this)) (VP (VBN covered)))))))) (. .)))
+7: (ROOT (S (NP (PRP You)) (VP (VBP take) (NP (NN care)) (PP (IN of) (NP (DT this) (NNS guys)))) (. .)))
+8: (ROOT (S (VP (VP (VB Lead) (NP (DT the) (NN way))) (CC and) (VP (VB leave) (NP (DT the) (JJ middle) (NN class)) (ADVP (RB alone)))) (. .)))

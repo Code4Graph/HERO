@@ -1,0 +1,1 @@
+( NS-Elaboration ( EDU 1 )( NS-Elaboration ( NS-Elaboration ( EDU 2 )( NS-Elaboration ( EDU 3 )( EDU 4 ) ) )( NN-Joint ( EDU 5 )( NN-Joint ( EDU 6 )( NS-Elaboration ( EDU 7 )( NS-Elaboration ( NS-Elaboration ( EDU 8 )( EDU 9 ) )( NS-Elaboration ( EDU 10 )( NS-Elaboration ( NS-Elaboration ( EDU 11 )( EDU 12 ) )( NS-Elaboration ( EDU 13 )( EDU 14 ) ) ) ) ) ) ) ) ) )
